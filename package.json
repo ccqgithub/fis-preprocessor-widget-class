@@ -1,0 +1,24 @@
+{
+  "name": "fis-preprocessor-widget-class",
+  "version": "0.0.1",
+  "description": "fis 插件，作用于preprocessor阶段。使widget的class唯一",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/ut --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ccqgithub/fis-preprocessor-widget-class.git"
+  },
+  "keywords": [
+    "fis-preprocessor-widget-class",
+    "sherry",
+    "fis"
+  ],
+  "author": {
+    "name": "season.chen"
+  },
+  "license": "BSD",
+  "dependencies": {
+  }
+}
