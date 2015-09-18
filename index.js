@@ -12,7 +12,7 @@ module.exports = function(content, file, conf) {
     }
 
     if (file.isWidget) {
-        content = content.replace(/w-widget-name/ig, classes[filepath]);
+        content = content.replace(/w-widget-class/ig, classes[filepath]);
     }
 
     return content;
