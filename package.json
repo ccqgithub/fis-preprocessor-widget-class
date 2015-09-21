@@ -1,6 +1,6 @@
 {
   "name": "fis-preprocessor-widget-class",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "fis 插件，作用于preprocessor阶段。使widget的class唯一",
   "main": "index.js",
   "scripts": {
